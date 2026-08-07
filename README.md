@@ -65,9 +65,9 @@ To develop a low-cost and reliable gas leakage detection system that improves sa
 
 ## 👨‍💻 Developed By
 Team Members:
-- Your Name
-- Team Member 1
-- Team Member 2
+- Kumaran.P
+- Vanajadevi.P
+- Trisha.S
 
 ## 📜 License
 This project is open-source and created for educational purposes.
